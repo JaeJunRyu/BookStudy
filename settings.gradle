@@ -1,0 +1,3 @@
+rootProject.name = 'bookStudyMultiModule'
+include 'ddd_start_study'
+
